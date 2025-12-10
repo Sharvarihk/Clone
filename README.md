@@ -1,5 +1,5 @@
 # Clone
-This is the clone of home page of Amazon website using basic HTML and CSS styling.
+Amazon Homepage CLone using basic HTML and CSS styling.
 
 Here is the screenshot of home page which I created:
 
